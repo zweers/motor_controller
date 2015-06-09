@@ -40,3 +40,6 @@ https://processing.org/download/
 
 12V DC power source (used: velleman labps3005D lab power supply or similar)
 http://www.velleman.eu/products/view/?id=417862
+
+![cimg4744 kopieren](https://cloud.githubusercontent.com/assets/3319671/7983010/88f2fa68-0abc-11e5-9c2c-adb178dd9b11.jpg)
+
