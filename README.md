@@ -7,7 +7,7 @@ www.wowlab.nl
 zweers@dds.nl
 
 created to develop software for 12V 25A DC motor controller
-cimg4744 kopieren
+
 
 introduction:
 
